@@ -1,0 +1,6 @@
+[submodule "deps/mlr"]
+	path = deps/mlr
+	url = https://github.com/lndpj/mlr
+[submodule "deps/tlsf"]
+	path = deps/tlsf
+	url = https://github.com/mattconte/tlsf
