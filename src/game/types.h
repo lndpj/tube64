@@ -2,6 +2,7 @@
 
 #include <cstdint>
 #include <cstddef>
+#include <stdfloat>
 #include <cstdio>
 #include <cstdlib>
 #include <cstring>
